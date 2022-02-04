@@ -13,7 +13,3 @@ class Solution:
             cookie_j += 1
 
         return child_i
-
-#
-# https://leetcode.com/problems/assign-cookies/submissions/
-#
