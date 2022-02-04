@@ -1,5 +1,10 @@
 # Coding_Interview 
 LeetCode 문제 풀이
+
+목차 -> 해당 목차 폴더로 이동 (문제 풀이)  
+LeetCode{번호} 문제 제목 -> 리트코드 문제로 이동  
+코드 -> 소스코드로 이동
+
 ***
 * 자료구조
   * 선형
@@ -20,12 +25,12 @@ LeetCode 문제 풀이
   * 이진검색 
   * 비트 조작 
   * 슬라이딩 윈도우 
-  * [그리디 알고리즘](https://github.com/chokwonsik/Coding_Interview/tree/main/Greedy)  
+  * [그리디 알고리즘 (문제 풀이)](https://github.com/chokwonsik/Coding_Interview/tree/main/Greedy)  
     * [LeetCode 122 주식을 사고팔기 가장 좋은 시점 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-      - [풀이 1](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/78_leetcode_122_Pythonic.py), 
-    [풀이 2](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/78_leetcode_122.py)
+      - [코드 1](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/78_leetcode_122_Pythonic.py), 
+        [코드 2](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/78_leetcode_122.py)
     * [LeetCode 455 쿠키 부여](https://leetcode.com/problems/assign-cookies/)
-      * [풀이](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/82_leetcode_455.py)
+      * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/82_leetcode_455.py)
   * 분할 정복 
   * 다이나믹 프로그래밍
 
