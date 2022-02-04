@@ -20,7 +20,7 @@ LeetCode 문제 풀이
   * 이진검색 
   * 비트 조작 
   * 슬라이딩 윈도우 
-  * 그리디 알고리즘  
+  * [그리디 알고리즘](https://github.com/chokwonsik/Coding_Interview/tree/main/Greedy)  
     * [LeetCode 122 주식을 사고팔기 가장 좋은 시점 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
       - [풀이 1](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/78_leetcode_122_Pythonic.py), 
     [풀이 2](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/78_leetcode_122.py)
