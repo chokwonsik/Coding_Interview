@@ -28,6 +28,3 @@ LeetCode 문제 풀이
       * [풀이](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/82_leetcode_455.py)
   * 분할 정복 
   * 다이나믹 프로그래밍
-
----
->Sang.Kil. Park, _파이썬 알고리즘 인터뷰_, 책만, 2020, pp.1-723.
