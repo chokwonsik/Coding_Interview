@@ -1,6 +1,11 @@
-# Coding_Interview 
-LeetCode 문제 풀이
+# Coding_Interview
+## LeetCode 문제 풀이
 
+* 개발 언어 및 도구
+  * "Python 3.7+" , 리트코드, 파이참 커뮤니티 에디션
+
+
+* 사용 방법  
 목차 -> 해당 목차 폴더로 이동 (문제 풀이)  
 LeetCode{번호} 문제 제목 -> 리트코드 문제로 이동  
 코드 -> 소스코드로 이동
