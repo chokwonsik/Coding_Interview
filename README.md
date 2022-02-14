@@ -13,8 +13,8 @@ LeetCode{번호} 문제 제목 -> 리트코드 문제로 이동
 ***
 * [문자열 조작](https://github.com/chokwonsik/Coding_Interview/tree/main/Greedy)
   * [LeetCode 125 유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/)
-    * [코드 1](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/1_leetcode_125_slice.py),  
-    [코드 2](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/1_leetcode_125_deque.py),  
+    * [코드 1](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/1_leetcode_125_slice.py),
+    [코드 2](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/1_leetcode_125_deque.py),
     [코드 3](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/1_leetcode_125_list.py)
 * 자료구조
   * 선형
