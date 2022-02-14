@@ -11,6 +11,11 @@ LeetCode{번호} 문제 제목 -> 리트코드 문제로 이동
 코드 -> 소스 코드로 이동
 
 ***
+* [문자열 조작](https://github.com/chokwonsik/Coding_Interview/tree/main/Greedy))
+  * [LeetCode 125 유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/)
+    * [코드 1](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/1_leetcode_125_slice.py),  
+    * [코드 2](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/1_leetcode_125_deque.py),  
+    * [코드 3](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/1_leetcode_125_list.py)
 * 자료구조
   * 선형
     * 배열 
@@ -30,7 +35,7 @@ LeetCode{번호} 문제 제목 -> 리트코드 문제로 이동
   * 이진검색 
   * 비트 조작 
   * 슬라이딩 윈도우 
-  * [그리디 알고리즘 (문제 풀이)](https://github.com/chokwonsik/Coding_Interview/tree/main/Greedy)  
+  * [그리디 알고리즘](https://github.com/chokwonsik/Coding_Interview/tree/main/Greedy)  
     * [LeetCode 122 주식을 사고팔기 가장 좋은 시점 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
       - [코드 1](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/78_leetcode_122_Pythonic.py), 
         [코드 2](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy/78_leetcode_122.py)
