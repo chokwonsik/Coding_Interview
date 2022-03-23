@@ -12,8 +12,8 @@
       [코드 2](https://github.com/chokwonsik/Coding_Interview/blob/main/String%20Manipulation/LeetCode_125_Valid%20Palindrome/1_leetcode_125_deque.py), 
       [코드 3](https://github.com/chokwonsik/Coding_Interview/blob/main/String%20Manipulation/LeetCode_125_Valid%20Palindrome/1_leetcode_125_list.py)
   * [LeetCode 344 문자열 뒤집기](https://leetcode.com/problems/reverse-string/)
-    * [코드1](https://github.com/chokwonsik/Coding_Interview/blob/main/String%20Manipulation/LeetCode_344_Reverse%20String)/2_leetcode_344_Pytonic.py), 
-      [코드2](https://github.com/chokwonsik/Coding_Interview/blob/main/String%20Manipulation/LeetCode_344_Reverse%20String)/2_leetcode_344_Two-Pointer.py)
+    * [코드1](https://github.com/chokwonsik/Coding_Interview/blob/main/String%20Manipulation/LeetCode_344_Reverse%20String/2_leetcode_344_Pytonic.py), 
+      [코드2](https://github.com/chokwonsik/Coding_Interview/blob/main/String%20Manipulation/LeetCode_344_Reverse%20String/2_leetcode_344_Two-Pointer.py)
 ---------------------------------------
 
 * 자료구조
@@ -39,10 +39,10 @@
   * 슬라이딩 윈도우 
   * [그리디 알고리즘](https://github.com/chokwonsik/Coding_Interview/tree/main/%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)  
     * [LeetCode 122 주식을 사고팔기 가장 좋은 시점 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-      - [코드 1](https://github.com/chokwonsik/Coding_Interview/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/78_leetcode_122_Pythonic.py) 
-        [코드 2](https://github.com/chokwonsik/Coding_Interview/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/78_leetcode_122.py)
+      - [코드 1](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy%20Algorithm/leetcode_122_Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/78_leetcode_122_Pythonic.py) 
+        [코드 2](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy%20Algorithm/leetcode_122_Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/78_leetcode_122.py)
     * [LeetCode 455 쿠키 부여](https://leetcode.com/problems/assign-cookies/)
-      * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/82_leetcode_455.py)
+      * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/Greedy%20Algorithm/leetcode_455_Assign%20Cookies/82_leetcode_455.py)
   * 분할 정복 
   * 다이나믹 프로그래밍 t
 
