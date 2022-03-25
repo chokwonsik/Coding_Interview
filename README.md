@@ -18,8 +18,7 @@
     * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/3_leetcode_937_Reorder-Log-Files/3_leetcode_937_Reorder-Data-in-Log-Files.py)
   * [LeetCode 819 가장 흔한 단어](https://leetcode.com/problems/most-common-word/) (Hash Table, String, Counting)
     * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/4_leetcode_819_Most-Common-Word/4_leetcode_819_Most-Common-Word.py)
-    * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/4_leetCode_819_Most-Common-Word/4_leetcode_819_Most-Common-Word.py)
-
+    
 
 ---------------------------------------
 * 자료구조
@@ -45,7 +44,7 @@
   * 슬라이딩 윈도우 
   * [그리디 알고리즘](https://github.com/chokwonsik/Coding_Interview/tree/main/Algorithm/21_Greedy_Algorithm)  
     * [LeetCode 122 주식을 사고팔기 가장 좋은 시점 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) (Array, Dynamic Programming, Greedy)
-      - [코드 1](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/21_Greedy_Algorithm/78_leetcode_122_Best-Time-to-Buy-and-Sell-Stock-II/78_leetcode_122_Pythonic.py) 
+      - [코드 1](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/21_Greedy_Algorithm/78_leetcode_122_Best-Time-to-Buy-and-Sell-Stock-II/78_leetcode_122_Pythonic.py),
         [코드 2](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/21_Greedy_Algorithm/78_leetcode_122_Best-Time-to-Buy-and-Sell-Stock-II/78_leetcode_122.py)
     * [LeetCode 455 쿠키 부여](https://leetcode.com/problems/assign-cookies/) (Array, Greedy, sorting)
       * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/21_Greedy_Algorithm/82_leetcode_455_Assign-Cookies/82_leetcode_455.py)
