@@ -7,15 +7,17 @@
 ---------------------------------------
 
 * [문자열 조작](https://github.com/chokwonsik/Coding_Interview/tree/main/6_String_Manipulation)
-  * [LeetCode 125 유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/)
-    * [코드 1](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/LeetCode_125_Valid_Palindrome/1_leetcode_125_slicing.py),
-      [코드 2](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/LeetCode_125_Valid_Palindrome/1_leetcode_125_deque.py), 
-      [코드 3](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/LeetCode_125_Valid_Palindrome/1_leetcode_125_list.py)
-  * [LeetCode 344 문자열 뒤집기](https://leetcode.com/problems/reverse-string/)
-    * [코드1](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/LeetCode_344_Reverse_String/2_leetcode_344_Pytonic.py), 
-      [코드2](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/LeetCode_344_Reverse_String/2_leetcode_344_Two-Pointer.py)
-  * [LeetCode 937 로그 파일 재정렬](https://leetcode.com/problems/reorder-data-in-log-files/)
-    * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/LeetCode_937_Reorder_Log_Files/3_leetcode_937_Reorder-Data-in-Log-Files.py)
+  * [LeetCode 125 유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/) (Two Pointers, String)
+    * [코드 1](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/1_LeetCode_125_Valid_Palindrome/1_leetcode_125_slicing.py),
+      [코드 2](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/1_LeetCode_125_Valid_Palindrome/1_leetcode_125_deque.py), 
+      [코드 3](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/1_LeetCode_125_Valid_Palindrome/1_leetcode_125_list.py)
+  * [LeetCode 344 문자열 뒤집기](https://leetcode.com/problems/reverse-string/) (Two Pointers, String, Recursion)
+    * [코드1](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/2_LeetCode_344_Reverse_String/2_leetcode_344_Pytonic.py), 
+      [코드2](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/2_LeetCode_344_Reverse_String/2_leetcode_344_Two-Pointer.py)
+  * [LeetCode 937 로그 파일 재정렬](https://leetcode.com/problems/reorder-data-in-log-files/) (Array, String, Sorting)
+    * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/3_LeetCode_937_Reorder_Log_Files/3_leetcode_937_Reorder-Data-in-Log-Files.py)
+  * [LeetCode 819 가장 흔한 단어](https://leetcode.com/problems/most-common-word/) (Hash Table, String, Counting)
+    * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/4_leetcode_819_Most-Common-Word/4_leetcode_819_Most-Common-Word.py)
 ---------------------------------------
 
 * 자료구조
@@ -40,13 +42,13 @@
   * 비트 조작 
   * 슬라이딩 윈도우 
   * [그리디 알고리즘](https://github.com/chokwonsik/Coding_Interview/tree/main/Algorithm/21_Greedy_Algorithm)  
-    * [LeetCode 122 주식을 사고팔기 가장 좋은 시점 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-      - [코드 1](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/21_Greedy_Algorithm/leetcode_122_Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/78_leetcode_122_Pythonic.py) 
-        [코드 2](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/21_Greedy_Algorithm/leetcode_122_Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/78_leetcode_122.py)
-    * [LeetCode 455 쿠키 부여](https://leetcode.com/problems/assign-cookies/)
-      * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/21_Greedy_Algorithm/leetcode_455_Assign%20Cookies/82_leetcode_455.py)
+    * [LeetCode 122 주식을 사고팔기 가장 좋은 시점 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) (Array, Dynamic Programming, Greedy)
+      - [코드 1](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/21_Greedy_Algorithm/78_leetcode_122_Best-Time-to-Buy-and-Sell-Stock-II/78_leetcode_122_Pythonic.py) 
+        [코드 2](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/21_Greedy_Algorithm/78_leetcode_122_Best-Time-to-Buy-and-Sell-Stock-II/78_leetcode_122.py)
+    * [LeetCode 455 쿠키 부여](https://leetcode.com/problems/assign-cookies/) (Array, Greedy, sorting)
+      * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/21_Greedy_Algorithm/82_leetcode_455_Assign-Cookies/82_leetcode_455.py)
   * 분할 정복 
-  * 다이나믹 프로그래밍 t
+  * 다이나믹 프로그래밍
 
 
 ---------------------------------------
