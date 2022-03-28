@@ -23,10 +23,10 @@
   * [LeetCode 5 가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/) (String, Dynamic Programming)
     * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/6_LeetCode_5_Longest-Palindromic-Substring/6_leetcode_5.py)
   * [LeetCode 1 두 수의 합](https://leetcode.com/problems/two-sum/) (Array, Hash Table)
-    * [코드 (dict)](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/7_LeetCode_1_Two-Sum/6_leetcode_1_dict.py),
-      [코드 (dict2)](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/7_LeetCode_1_Two-Sum/6_leetcode_1_dict-2.py),
-      [코드 (in)](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/7_LeetCode_1_Two-Sum/6_leetcode_1_in.py),
-      [코드 (brute-force)](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/7_LeetCode_1_Two-Sum/6_leetcode_1_brute-force.py)
+    * [코드 (dict)](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/7_LeetCode_1_Two-Sum/7_leetcode_1_dict.py),
+      [코드 (dict2)](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/7_LeetCode_1_Two-Sum/7_leetcode_1_dict-2.py),
+      [코드 (in)](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/7_LeetCode_1_Two-Sum/7_leetcode_1_in.py),
+      [코드 (brute-force)](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/7_LeetCode_1_Two-Sum/7_leetcode_1_brute-force.py)
 
 ---------------------------------------
 * 자료구조
