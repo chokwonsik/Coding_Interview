@@ -22,23 +22,24 @@
     * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/5_LeetCode_49_Group-Anagrams/5_leetcode_49.py)
   * [LeetCode 5 가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/) (String, Dynamic Programming)
     * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/6_LeetCode_5_Longest-Palindromic-Substring/6_leetcode_5.py)
-  * [LeetCode 1 두 수의 합](https://leetcode.com/problems/two-sum/) (Array, Hash Table)
-    * [코드 (dict)](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/7_LeetCode_1_Two-Sum/7_leetcode_1_dict.py),
-      [코드 (dict2)](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/7_LeetCode_1_Two-Sum/7_leetcode_1_dict-2.py),
-      [코드 (in)](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/7_LeetCode_1_Two-Sum/7_leetcode_1_in.py),
-      [코드 (brute-force)](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/7_LeetCode_1_Two-Sum/7_leetcode_1_brute-force.py)
-  * [LeetCode 42 빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) (Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack)
-    * [코드 (two-pointer)](ttps://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/8_LeetCode_42_Trapping-Rain-Water/8_leetcode_42_two-pointer.py),
-      [코드 (stack)](ttps://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/8_LeetCode_42_Trapping-Rain-Water/8_leetcode_42_stack.py)
-
+  
 ---------------------------------------
 * 자료구조
-  * 선형
-    * 배열 
-    * 연결리스트 
-    * 스택, 큐 
-    * 데크, 우선 순위 큐 
-    * 해시 테이블
+  * [선형](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/README.md)
+    * 배열
+      * [LeetCode 1 두 수의 합](https://leetcode.com/problems/two-sum/) (Array, Hash Table)
+        * [코드 (dict)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_LeetCode_1_Two-Sum/7_leetcode_1_dict.py),
+          [코드 (dict2)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_LeetCode_1_Two-Sum/7_leetcode_1_dict-2.py),
+          [코드 (in)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_LeetCode_1_Two-Sum/7_leetcode_1_in.py),
+          [코드 (brute-force)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_LeetCode_1_Two-Sum/7_leetcode_1_brute-force.py)
+      * [LeetCode 42 빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) (Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack)
+        * [코드 (two-pointer)](https://github.com/chokwonsik/Coding_Interview/blob/main/7_Array/8_LeetCode_42_Trapping-Rain-Water/8_leetcode_42_two-pointer.py),
+          [코드 (stack)](https://github.com/chokwonsik/Coding_Interview/blob/main/7_Array/8_LeetCode_42_Trapping-Rain-Water/8_leetcode_42_stack.py)
+
+        * 연결리스트 
+        * 스택, 큐 
+        * 데크, 우선 순위 큐 
+        * 해시 테이블
   * 비선형
     * 그래프 
     * 최단 경로 문제 
