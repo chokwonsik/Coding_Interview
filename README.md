@@ -24,37 +24,36 @@
     * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/6_LeetCode_5_Longest-Palindromic-Substring/6_leetcode_5.py)
   
 ---------------------------------------
-* 자료구조
-  * [선형](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/README.md)
-    * 배열
-      * [LeetCode 1 두 수의 합](https://leetcode.com/problems/two-sum/) (Array, Hash Table)
-        * [코드 (dict)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_LeetCode_1_Two-Sum/7_leetcode_1_dict.py),
-          [코드 (dict2)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_LeetCode_1_Two-Sum/7_leetcode_1_dict-2.py),
-          [코드 (in)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_LeetCode_1_Two-Sum/7_leetcode_1_in.py),
-          [코드 (brute-force)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_LeetCode_1_Two-Sum/7_leetcode_1_brute-force.py)
-      * [LeetCode 42 빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) (Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack)
-        * [코드 (two-pointer)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/8_LeetCode_42_Trapping-Rain-Water/8_leetcode_42_two-pointer.py),
-          [코드 (stack)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/8_LeetCode_42_Trapping-Rain-Water/8_leetcode_42_stack.py)
+* [선형 자료구조](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/README.md)
+  * 배열
+    * [LeetCode 1 두 수의 합](https://leetcode.com/problems/two-sum/) (Array, Hash Table)
+      * [코드 (dict)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_LeetCode_1_Two-Sum/7_leetcode_1_dict.py),
+        [코드 (dict2)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_LeetCode_1_Two-Sum/7_leetcode_1_dict-2.py),
+        [코드 (in)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_LeetCode_1_Two-Sum/7_leetcode_1_in.py),
+        [코드 (brute-force)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_LeetCode_1_Two-Sum/7_leetcode_1_brute-force.py)
+    * [LeetCode 42 빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) (Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack)
+      * [코드 (two-pointer)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/8_LeetCode_42_Trapping-Rain-Water/8_leetcode_42_two-pointer.py),
+        [코드 (stack)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/8_LeetCode_42_Trapping-Rain-Water/8_leetcode_42_stack.py)
 
-          * 연결리스트 
-          * 스택, 큐 
-          * 데크, 우선 순위 큐 
-          * 해시 테이블
-  * 비선형
-    * 그래프 
-    * 최단 경로 문제 
-    * 트리 
-    * 힙 
-    * 트라이
+        * 연결리스트 
+        * 스택, 큐 
+        * 데크, 우선 순위 큐 
+        * 해시 테이블
+* 비선형 자료구조
+  * 그래프 
+  * 최단 경로 문제 
+  * 트리 
+  * 힙 
+  * 트라이
 
 ---------------------------------------
 
-* 알고리즘
+* [알고리즘](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/README.md)
   * 정렬 
   * 이진검색 
   * 비트 조작 
   * 슬라이딩 윈도우 
-  * [그리디 알고리즘](https://github.com/chokwonsik/Coding_Interview/tree/main/Algorithm/21_Greedy_Algorithm)  
+  * 그리디 알고리즘  
     * [LeetCode 122 주식을 사고팔기 가장 좋은 시점 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) (Array, Dynamic Programming, Greedy)
       - [코드 (pythonic)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/21_Greedy-Algorithm/78_LeetCode_122_Best-Time-to-Buy-and-Sell-Stock-II/78_leetcode_122_pythonic.py),
         [코드 2](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/21_Greedy-Algorithm/78_LeetCode_122_Best-Time-to-Buy-and-Sell-Stock-II/78_leetcode_122.py)

@@ -18,4 +18,4 @@
   * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/6_LeetCode_5_Longest-Palindromic-Substring/6_leetcode_5.py)
 
 
->Sang.Kil. Park, _파이썬 알고리즘 인터뷰_, 책만, 2020, pp.137-165.
+>Sang.Kil. Park, _파이썬 알고리즘 인터뷰_, 책만, 2020, pp.136-165.
