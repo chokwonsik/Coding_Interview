@@ -8,8 +8,8 @@
             [코드 (in)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_LeetCode_1_Two-Sum/7_leetcode_1_in.py),
             [코드 (brute-force)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_LeetCode_1_Two-Sum/7_leetcode_1_brute-force.py)
   * [LeetCode 42 빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) (Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack)
-    * [코드 (two-pointer)](https://github.com/chokwonsik/Coding_Interview/blob/main/7_Array/8_LeetCode_42_Trapping-Rain-Water/8_leetcode_42_two-pointer.py),
-      [코드 (stack)](https://github.com/chokwonsik/Coding_Interview/blob/main/7_Array/8_LeetCode_42_Trapping-Rain-Water/8_leetcode_42_stack.py)
+    * [코드 (two-pointer)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/8_LeetCode_42_Trapping-Rain-Water/8_leetcode_42_two-pointer.py),
+      [코드 (stack)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/8_LeetCode_42_Trapping-Rain-Water/8_leetcode_42_stack.py)
 * 연결리스트 
 * 스택, 큐 
 * 데크, 우선 순위 큐 
