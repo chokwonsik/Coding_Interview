@@ -21,6 +21,8 @@
     [코드 (dict2)](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/7_LeetCode_1_Two-Sum/7_leetcode_1_dict-2.py),
     [코드 (in)](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/7_LeetCode_1_Two-Sum/7_leetcode_1_in.py),
     [코드 (brute-force)](https://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/7_LeetCode_1_Two-Sum/7_leetcode_1_brute-force.py)
-
+* [LeetCode 42 빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) (Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack)
+    * [코드 (two-pointer)](ttps://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/8_LeetCode_42_Trapping-Rain-Water/8_leetcode_42_two-pointer.py),
+      [코드 (stack)](ttps://github.com/chokwonsik/Coding_Interview/blob/main/6_String_Manipulation/8_LeetCode_42_Trapping-Rain-Water/8_leetcode_42_stack.py)
 
 >Sang.Kil. Park, _파이썬 알고리즘 인터뷰_, 책만, 2020, pp.137-165.
