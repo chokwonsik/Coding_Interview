@@ -10,6 +10,9 @@
   * [LeetCode 42 빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) (Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack)
     * [코드 (two-pointer)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/8_LeetCode_42_Trapping-Rain-Water/8_leetcode_42_two-pointer.py),
       [코드 (stack)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/8_LeetCode_42_Trapping-Rain-Water/8_leetcode_42_stack.py)
+  * [LeetCode 15 세 수의 합](https://leetcode.com/problems/3sum/) (Array, Two Pointers, Sorting)
+    * [코드 (two-pointer)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/9_LeetCode_15_3Sum/9_leetcode_15_two-pointer.py),
+      [코드 (brute-force)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/9_LeetCode_15_3Sum/9_leetcode_15_brute-force.py)
 * 연결리스트 
 * 스택, 큐 
 * 데크, 우선 순위 큐 
