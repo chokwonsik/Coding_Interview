@@ -13,6 +13,10 @@
   * [LeetCode 15 세 수의 합](https://leetcode.com/problems/3sum/) (Array, Two Pointers, Sorting)
     * [코드 (two-pointer)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/9_LeetCode_15_3Sum/9_leetcode_15_two-pointer.py),
       [코드 (brute-force)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/9_LeetCode_15_3Sum/9_leetcode_15_brute-force.py)
+  * [LeetCode 561 배열 파티션 1 ](https://leetcode.com/problems/array-partition-i/) (Array, Greedy, Sorting, Counting Sort)
+      * [코드 (pytonic)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/10_LeetCode_561_Array-Partition-I/10_leetcode_561_pytonic.py),
+        [코드 (even-number)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/10_LeetCode_561_Array-Partition-I/10_leetcode_561_even-number.py),
+        [코드 (even-number)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/10_LeetCode_561_Array-Partition-I/10_leetcode_561_ascending.py)
 * 연결리스트 
 * 스택, 큐 
 * 데크, 우선 순위 큐 
