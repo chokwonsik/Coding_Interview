@@ -20,8 +20,8 @@
   * [LeetCode 238 자신을 제외한 배열의 곱](https://leetcode.com/problems/product-of-array-except-self/) (Array, Prefix Sum)
     * [코드 (mul)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/11_LeetCode_238_Product-of-Array-Except-Self/11_leetcode_238.py)
   * [LeetCode 121 주식을 사고팔기 가장 좋은 시점](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (Array, Dynamic Programming)
-    * [코드 (min&max)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/12_LeetCode_121_Best%20Time-to-Buy-and-Sell-Stock/12_leetcode_121_min%26max.py)
-    * [코드 (brute-force)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/12_LeetCode_121_Best%20Time-to-Buy-and-Sell-Stock/12_leetcode_121_brute-force.py)
+    * [코드 (min&max)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/12_LeetCode_121_Best%20Time-to-Buy-and-Sell-Stock/12_leetcode_121_min%26max.py),
+      [코드 (brute-force)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/12_LeetCode_121_Best%20Time-to-Buy-and-Sell-Stock/12_leetcode_121_brute-force.py)
 
 
 
