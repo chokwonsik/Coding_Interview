@@ -22,10 +22,13 @@
   * [LeetCode 121 주식을 사고팔기 가장 좋은 시점](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (Array, Dynamic Programming)
     * [코드 (min&max)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/12_LeetCode_121_Best%20Time-to-Buy-and-Sell-Stock/12_leetcode_121_min%26max.py),
       [코드 (brute-force)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/12_LeetCode_121_Best%20Time-to-Buy-and-Sell-Stock/12_leetcode_121_brute-force.py)
+    
 
-
-
-* 연결리스트 
+* 연결리스트
+  * [LeetCode 234 팰린드롬 연결 리스트](https://leetcode.com/problems/palindrome-linked-list/) (Linked List, Two Pointers Stack, Recursion)
+      * [코드 (runner)](https://github.com/chokwonsik/Coding_Interview/blob/97c01e3792a35d753e4510b3423fed899cb3b178/Data_Structure/Linear/8_Linked-List/13_LeetCode_234_Palindrome-Linked-List/13_leetcode_234_runner.py),
+        [코드 (deque)](https://github.com/chokwonsik/Coding_Interview/blob/97c01e3792a35d753e4510b3423fed899cb3b178/Data_Structure/Linear/8_Linked-List/13_LeetCode_234_Palindrome-Linked-List/13_leetcode_234_deque.py),
+        [코드 (list)](https://github.com/chokwonsik/Coding_Interview/blob/97c01e3792a35d753e4510b3423fed899cb3b178/Data_Structure/Linear/8_Linked-List/13_LeetCode_234_Palindrome-Linked-List/13_leetocde_234_list.py)
 * 스택, 큐 
 * 데크, 우선 순위 큐 
 * 해시 테이블
