@@ -25,7 +25,7 @@
     
 
 * 연결리스트
-  * [LeetCode 234 팰린드롬 연결 리스트](https://leetcode.com/problems/palindrome-linked-list/) (Linked List, Two Pointers Stack, Recursion)
+  * [LeetCode 234 팰린드롬 연결 리스트](https://leetcode.com/problems/palindrome-linked-list/) (Linked List, Two Pointers, Stack, Recursion)
       * [코드 (runner)](https://github.com/chokwonsik/Coding_Interview/blob/97c01e3792a35d753e4510b3423fed899cb3b178/Data_Structure/Linear/8_Linked-List/13_LeetCode_234_Palindrome-Linked-List/13_leetcode_234_runner.py),
         [코드 (deque)](https://github.com/chokwonsik/Coding_Interview/blob/97c01e3792a35d753e4510b3423fed899cb3b178/Data_Structure/Linear/8_Linked-List/13_LeetCode_234_Palindrome-Linked-List/13_leetcode_234_deque.py),
         [코드 (list)](https://github.com/chokwonsik/Coding_Interview/blob/97c01e3792a35d753e4510b3423fed899cb3b178/Data_Structure/Linear/8_Linked-List/13_LeetCode_234_Palindrome-Linked-List/13_leetocde_234_list.py)
