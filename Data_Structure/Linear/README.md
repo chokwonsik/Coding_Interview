@@ -31,6 +31,9 @@
         [코드 (list)](https://github.com/chokwonsik/Coding_Interview/blob/97c01e3792a35d753e4510b3423fed899cb3b178/Data_Structure/Linear/8_Linked-List/13_LeetCode_234_Palindrome-Linked-List/13_leetocde_234_list.py)
   * [LeetCode 21 두 정렬 리스트의 병합](https://leetcode.com/problems/merge-two-sorted-lists/) (Linked List, Recursion)
     * [코드 (recursive)](https://github.com/chokwonsik/Coding_Interview/blob/fab749e0c13ce3b5155c67cd94de2554e83fa947/Data_Structure/Linear/8_Linked-List/14_LeetCode_21_Merge-Two-Sorted-Lists/14_leetcode_21_recursive.py)
+  * [LeetCode 206 역순 연결리스트](https://leetcode.com/problems/reverse-linked-list/) (Linked List, Recursion)
+    * [코드 (lterative)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/15_LeetCode_206_Reverse-Linked-List/15_leetcode_206_lterative.py),
+    [코드 (recursive)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/15_LeetCode_206_Reverse-Linked-List/15_leetcode_206_recursive.py)
  
 
 

@@ -50,12 +50,14 @@
       
 * 연결리스트
   * [LeetCode 234 팰린드롬 연결 리스트](https://leetcode.com/problems/palindrome-linked-list/) (Linked List, Two Pointers, Stack, Recursion)
-    * [코드 (runner)](https://github.com/chokwonsik/Coding_Interview/blob/97c01e3792a35d753e4510b3423fed899cb3b178/Data_Structure/Linear/8_Linked-List/13_LeetCode_234_Palindrome-Linked-List/13_leetcode_234_runner.py),
-      [코드 (deque)](https://github.com/chokwonsik/Coding_Interview/blob/97c01e3792a35d753e4510b3423fed899cb3b178/Data_Structure/Linear/8_Linked-List/13_LeetCode_234_Palindrome-Linked-List/13_leetcode_234_deque.py),
-      [코드 (list)](https://github.com/chokwonsik/Coding_Interview/blob/97c01e3792a35d753e4510b3423fed899cb3b178/Data_Structure/Linear/8_Linked-List/13_LeetCode_234_Palindrome-Linked-List/13_leetocde_234_list.py)
+    * [코드 (runner)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/13_LeetCode_234_Palindrome-Linked-List/13_leetcode_234_runner.py),
+      [코드 (deque)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/13_LeetCode_234_Palindrome-Linked-List/13_leetcode_234_deque.py),
+      [코드 (list)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/13_LeetCode_234_Palindrome-Linked-List/13_leetocde_234_list.py)
   * [LeetCode 21 두 정렬 리스트의 병합](https://leetcode.com/problems/merge-two-sorted-lists/) (Linked List, Recursion)
-    * [코드 (recursive)](https://github.com/chokwonsik/Coding_Interview/blob/fab749e0c13ce3b5155c67cd94de2554e83fa947/Data_Structure/Linear/8_Linked-List/14_LeetCode_21_Merge-Two-Sorted-Lists/14_leetcode_21_recursive.py)
-
+    * [코드 (recursive)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/14_LeetCode_21_Merge-Two-Sorted-Lists/14_leetcode_21_recursive.py)
+  * [LeetCode 206 역순 연결리스트](https://leetcode.com/problems/reverse-linked-list/) (Linked List, Recursion)
+    * [코드 (lterative)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/15_LeetCode_206_Reverse-Linked-List/15_leetcode_206_lterative.py),
+    [코드 (recursive)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/15_LeetCode_206_Reverse-Linked-List/15_leetcode_206_recursive.py)
 
 
 
@@ -86,6 +88,7 @@
       [코드 2](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/21_Greedy-Algorithm/78_LeetCode_122_Best-Time-to-Buy-and-Sell-Stock-II/78_leetcode_122.py)
   * [LeetCode 455 쿠키 부여](https://leetcode.com/problems/assign-cookies/) (Array, Greedy, sorting)
     * [코드](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/21_Greedy-Algorithm/82_LeetCode_455_Assign-Cookies/82_leetcode_455.py)
+ 
 * 분할 정복 
 * 다이나믹 프로그래밍
 
