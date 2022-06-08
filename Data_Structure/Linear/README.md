@@ -34,6 +34,10 @@
   * [LeetCode 206 역순 연결리스트](https://leetcode.com/problems/reverse-linked-list/) (Linked List, Recursion)
     * [코드 (lterative)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/15_LeetCode_206_Reverse-Linked-List/15_leetcode_206_lterative.py),
     [코드 (recursive)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/15_LeetCode_206_Reverse-Linked-List/15_leetcode_206_recursive.py)
+  * [LeetCode 2 두 수의 덧셈](https://leetcode.com/problems/add-two-numbers/) (Linked List, Math, Recursion)
+    * [코드 (casting)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/16_Leetcode_2_Add-Two-Numbers/16_leetcode_2_casting.py), 
+    [코드 (full-adder)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/16_Leetcode_2_Add-Two-Numbers/16_leetcode_2_casting.py)
+    
  
 
 
