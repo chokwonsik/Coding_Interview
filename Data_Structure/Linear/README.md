@@ -37,7 +37,7 @@
   * [LeetCode 2 두 수의 덧셈](https://leetcode.com/problems/add-two-numbers/) (Linked List, Math, Recursion)
     * [코드 (casting)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/16_Leetcode_2_Add-Two-Numbers/16_leetcode_2_casting.py), 
     [코드 (full-adder)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/16_Leetcode_2_Add-Two-Numbers/16_leetcode_2_casting.py)
-  * [LeetCode 24 페어의 노드스왑](https://leetcode.com/problems/swap-nodes-in-pairs/)
+  * [LeetCode 24 페어의 노드스왑](https://leetcode.com/problems/swap-nodes-in-pairs/) (Linked List, Recursion)
     * [코드 (값만 교환)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/17_LeetCode_24_Swap-Nodes-in-Pairs/17_LeetCode_24_value-exchange.py),
       [코드 (반복 구조로 스왑)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/17_LeetCode_24_Swap-Nodes-in-Pairs/17_LeetCode_24_repeat-swap.py),
       [코드 (recursive) ](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/17_LeetCode_24_Swap-Nodes-in-Pairs/17_LeetCode_24_recursion.py)
