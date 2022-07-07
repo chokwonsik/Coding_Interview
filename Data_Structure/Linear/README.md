@@ -41,6 +41,8 @@
     * [코드 (값만 교환)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/17_LeetCode_24_Swap-Nodes-in-Pairs/17_LeetCode_24_value-exchange.py),
       [코드 (반복 구조로 스왑)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/17_LeetCode_24_Swap-Nodes-in-Pairs/17_LeetCode_24_repeat-swap.py),
       [코드 (recursive) ](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/17_LeetCode_24_Swap-Nodes-in-Pairs/17_LeetCode_24_recursion.py)
+  * [LeetCode 328 홀짝 연결 리스트](https://leetcode.com/problems/odd-even-linked-list/) (Linked List)
+    * [코드 (반복 구조로 홀짝 노드 처리)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/18_LeetCode_328_Odd-Even-Linked-List/18_LeetCode_328_repeat.py)
     
  
 
