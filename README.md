@@ -71,6 +71,9 @@
      * [코드 (반복 구조로 노드 뒤집기)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/19_LeetCode_92_Reverse-Linked-List-II/19_LeetCode_92_repeat.py)
   * [LeetCode 20 유호한 괄호](https://leetcode.com/problems/valid-parentheses/) (String, Stack)
       * [코드 (스택 일치 여부 판별)](https://github.com/onlybooks/algorithm-interview/blob/master/3-linear-data-structures/ch09/20-1.py)
+  * [LeetCode 316 중복 문자 제거](https://leetcode.com/problems/remove-duplicate-letters/) (String, Stack, Greedy, Monotonic Stack)
+      * [코드 (재귀를 이요한 분리)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/9_Stack%26Queue/21_LeetCode_316_Remove-Duplicate-Letters/21_LeetCode_316_recursion.py), 
+      [코드 (스택을 이용한 문자 제거)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/9_Stack%26Queue/21_LeetCode_316_Remove-Duplicate-Letters/21_LeetCode_316_stack.py)
 
 
 
