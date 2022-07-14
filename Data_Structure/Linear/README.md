@@ -26,11 +26,11 @@
 
 * 연결리스트
   * [LeetCode 234 팰린드롬 연결 리스트](https://leetcode.com/problems/palindrome-linked-list/) (Linked List, Two Pointers, Stack, Recursion)
-      * [코드 (runner)](https://github.com/chokwonsik/Coding_Interview/blob/97c01e3792a35d753e4510b3423fed899cb3b178/Data_Structure/Linear/8_Linked-List/13_234_Palindrome-Linked-List/13_234_runner.py),
-        [코드 (deque)](https://github.com/chokwonsik/Coding_Interview/blob/97c01e3792a35d753e4510b3423fed899cb3b178/Data_Structure/Linear/8_Linked-List/13_234_Palindrome-Linked-List/13_234_deque.py),
-        [코드 (list)](https://github.com/chokwonsik/Coding_Interview/blob/97c01e3792a35d753e4510b3423fed899cb3b178/Data_Structure/Linear/8_Linked-List/13_234_Palindrome-Linked-List/13_leetocde_234_list.py)
+      * [코드 (runner)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/13_234_Palindrome-Linked-List/13_234_runner.py),
+        [코드 (deque)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/13_234_Palindrome-Linked-List/13_234_deque.py),
+        [코드 (list)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/13_234_Palindrome-Linked-List/13_234_list.py)
   * [LeetCode 21 두 정렬 리스트의 병합](https://leetcode.com/problems/merge-two-sorted-lists/) (Linked List, Recursion)
-    * [코드 (recursive)](https://github.com/chokwonsik/Coding_Interview/blob/fab749e0c13ce3b5155c67cd94de2554e83fa947/Data_Structure/Linear/8_Linked-List/14_21_Merge-Two-Sorted-Lists/14_21_recursive.py)
+    * [코드 (recursive)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/14_21_Merge-Two-Sorted-Lists/14_21_recursive.py)
   * [LeetCode 206 역순 연결리스트](https://leetcode.com/problems/reverse-linked-list/) (Linked List, Recursion)
     * [코드 (lterative)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/15_206_Reverse-Linked-List/15_206_lterative.py),
     [코드 (recursive)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/15_206_Reverse-Linked-List/15_206_recursive.py)
@@ -52,7 +52,9 @@
     [코드 (스택을 이용한 문자 제거)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/9_Stack%26Queue/21_316_Remove-Duplicate-Letters/21_316_stack.py)
   * [LeetCode 739 일일온도](https://leetcode.com/problems/daily-temperatures/) (Array, Stack, Monotonic Stack)
     * [코드 (스택 값 비교)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/9_Stack%26Queue/22_739_Daily-Temperatures/22_739_stack.py)
-  c
+  * [LeetCode 225 큐를 이용한 스택 구현](https://leetcode.com/problems/implement-stack-using-queues/) (Stack, Design, Queue)
+    * [코드 (push() 할 때 큐를 이용해 재정렬)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/9_Stack%26Queue/23_225_Implement-Stack-using-Queues/23_225_push.py)
+  
     
  
 
