@@ -56,6 +56,8 @@
     * [코드 (push() 할 때 큐를 이용해 재정렬)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/9_Stack%26Queue/23_225_Implement-Stack-using-Queues/23_225_push.py)
   * [LeetCode 232 스택을 이용한 큐 구현](https://leetcode.com/problems/implement-queue-using-stacks/) (Stack, Design, Queue)
     * [코드 (스택 2개 사용)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/9_Stack%26Queue/24_232_Implement-Queue-using-Stacks/24_232_stack.py)
+  * [LeetCode 622 원형 큐 디자인](https://leetcode.com/problems/design-circular-queue/) (Array, Linked List, Design, Queue)
+    * [코드 (배열을 이용한 풀이)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/9_Stack%26Queue/25_622_Design-Circular-Queue/25_622_array.py)
     
  
 
