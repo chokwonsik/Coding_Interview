@@ -60,6 +60,8 @@
     * [코드 (배열을 이용한 풀이)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/9_Stack%26Queue/25_622_Design-Circular-Queue/25_622_array.py)
   * [LeetCode 641 원형 테크 디자인](https://leetcode.com/problems/design-circular-deque/) (Array, Linked List, Design, Queue)
     * [코드 (이중 연결 리스트)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/10_Dequq%26Priority-queue/26_641_Design-Circular-Deque/26_641_Doubly-linked-list.py)
+  * [LeetCOde 23 k개 정렬 리스트 병합](https://leetcode.com/problems/merge-k-sorted-lists/) (Linked List, Divide and Conquer, Heap(Priority Queue), Merge Sort) 
+    * [코드 (우선순위 큐를 이용한 리스트 병합)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/10_Dequq%26Priority-queue/27_23_Merge-k-Sorted-Lists/27_23_Priority-queue.py)
     
  
 
