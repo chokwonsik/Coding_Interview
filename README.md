@@ -69,6 +69,9 @@
      * [코드 (반복 구조로 홀짝 노드 처리)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/18_328_Odd-Even-Linked-List/18_328_repeat.py)
   * [LeetCode 92 역순 연결 리스트](https://leetcode.com/problems/reverse-linked-list-ii) (Linked List)
      * [코드 (반복 구조로 노드 뒤집기)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/19_92_Reverse-Linked-List-II/19_92_repeat.py)
+
+
+* 스택, 큐
   * [LeetCode 20 유호한 괄호](https://leetcode.com/problems/valid-parentheses/) (String, Stack)
       * [코드 (스택 일치 여부 판별)](https://github.com/onlybooks/algorithm-interview/blob/master/3-linear-data-structures/ch09/20-1.py)
   * [LeetCode 316 중복 문자 제거](https://leetcode.com/problems/remove-duplicate-letters/) (String, Stack, Greedy, Monotonic Stack)
@@ -82,17 +85,19 @@
     * [코드 (스택 2개 사용)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/9_Stack%26Queue/24_232_Implement-Queue-using-Stacks/24_232_stack.py)
   * [LeetCode 622 원형 큐 디자인](https://leetcode.com/problems/design-circular-queue/) (Array, Linked List, Design, Queue)
     * [코드 (배열을 이용한 풀이)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/9_Stack%26Queue/25_622_Design-Circular-Queue/25_622_array.py)
+
+
+* 데크, 우선 순위 큐
   * [LeetCode 641 원형 테크 디자인](https://leetcode.com/problems/design-circular-deque/) (Array, Linked List, Design, Queue)
     * [코드 (이중 연결 리스트)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/10_Dequq%26Priority-queue/26_641_Design-Circular-Deque/26_641_Doubly-linked-list.py)
-  * [LeetCOde 23 k개 정렬 리스트 병합](https://leetcode.com/problems/merge-k-sorted-lists/) (Linked List, Divide and Conquer, Heap(Priority Queue), Merge Sort) 
+  * [LeetC0de 23 k개 정렬 리스트 병합](https://leetcode.com/problems/merge-k-sorted-lists/) (Linked List, Divide and Conquer, Heap(Priority Queue), Merge Sort) 
     * [코드 (우선순위 큐를 이용한 리스트 병합)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/10_Dequq%26Priority-queue/27_23_Merge-k-Sorted-Lists/27_23_Priority-queue.py)
 
 
-
-
-* 스택, 큐
-* 데크, 우선 순위 큐 
 * 해시 테이블
+  * [LeetCode 706 해시맵 디자인](https://leetcode.com/problems/design-hashmap/) (Array, Hash Table, Linked List, Design, Hash Function)
+    * [코드 (개별 체이닝 방식을 이용한 해시 테이블 구현)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/28_706_Design-HashMap/28_706_Individual-chaining.py)
+
 
 ---------------------------------------------
 
