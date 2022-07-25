@@ -97,6 +97,11 @@
 * 해시 테이블
   * [LeetCode 706 해시맵 디자인](https://leetcode.com/problems/design-hashmap/) (Array, Hash Table, Linked List, Design, Hash Function)
     * [코드 (개별 체이닝 방식을 이용한 해시 테이블 구현)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/28_706_Design-HashMap/28_706_Individual-chaining.py)
+  * [LeetCode 771 보석과 돌](https://leetcode.com/problems/jewels-and-stones/) (Hash Table, String)
+    * [코드 (해시 테이블을 이용한 풀이)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/29_771_Jewels-and-Stones/29_771_hash-table.py) 
+    * [코드 (defaultdict를 이용한 비교 생략)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/29_771_Jewels-and-Stones/29_771_defaultdict.py)
+    * [코드 (Counter로 계산 생략)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/29_771_Jewels-and-Stones/29_771_counter.py)
+    * [코드 (Pytonic)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/29_771_Jewels-and-Stones/29_771_pytonic.py)
 
 
 ---------------------------------------------
