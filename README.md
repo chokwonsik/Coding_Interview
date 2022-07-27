@@ -104,6 +104,9 @@
     * [코드 (Pythonic)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/29_771_Jewels-and-Stones/29_771_pythonic.py)
   * [LeetCode 3 중복 문자 없는 가장 긴 부분 문자열](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (Hash Table, String, Sliding Window)
     * [코드 (슬라이딩 윈도우와 투 포인터로 사이즈 조절)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/30_3_Longest-Substring-Without-Repeating-Characters/30_3_sliding-window&two-pointer.py)
+  * [LeetCode 347 상위 K 빈도 요소](https://leetcode.com/problems/top-k-frequent-elements/) (Array, Hash Table, Divide and Conquer, Sorting, Heap(Priority Queue), Bucket Sort, Counting, Quickselect)
+    * [코드 (Counter를 이용한 음수 순 추출)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/31_347_Top-K-Frequent-Elements/31_347_counter.py)
+    * [코드 (Pythonic)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/31_347_Top-K-Frequent-Elements/31_347_Pythonic.py)
 
 
 ---------------------------------------------
