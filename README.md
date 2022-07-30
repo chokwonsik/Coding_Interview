@@ -117,6 +117,9 @@
       * [코드 (DFS로 그래프 탐색)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/32_200_Number-of-Islands/32_200_DFS.py)
     * [Leetcode 17 전화 번호 문자 조합](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) (Hash Table, String, Backtracking)
       * [코드 (모든 조합 탐색)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/33_17_Letter-Combinations-of-a-Phone-Number/33_17_backtracking.py)
+    * [Leetcode 46 순열](https://leetcode.com/problems/permutations/) (Array, Backtracking)
+      * [코드 (DFS를 활용한 순열 생성)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/34_46_Permutations/34_46_DFS.py)
+      * [코드 (itertools 모듈 사용)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/34_46_Permutations/34_46_itertools.py)
   * 최단 경로 문제 
   * 트리 
   * 힙 
