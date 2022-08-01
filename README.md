@@ -142,10 +142,8 @@
     * [코드 (그리디 알고리즘)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Greedy-Algorithm/78_122_Best-Time-to-Buy-and-Sell-Stock-II/78_122_greedy.py)
     * [코드 (Pythonic)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Greedy-Algorithm/78_122_Best-Time-to-Buy-and-Sell-Stock-II/78_122_pythonic.py)
   * [LeetCode 455 쿠키 부여](https://leetcode.com/problems/assign-cookies/) (Array, Greedy, sorting)
-    <sub>
-    * [코드 (그리디 알고리즘)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Greedy-Algorithm/82_455_Assign-Cookies/82_455_greedy.py)
-    * [코드 (이진 검색)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Greedy-Algorithm/82_455_Assign-Cookies/82_455_binary-search.py)
-    </sub>     
+    * [<sub>코드 (그리디 알고리즘)</sub>](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Greedy-Algorithm/82_455_Assign-Cookies/82_455_greedy.py)
+    * [<sub>코드 (이진 검색)</sub>](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Greedy-Algorithm/82_455_Assign-Cookies/82_455_binary-search.py) 
  
 * 분할 정복 
 * 다이나믹 프로그래밍
