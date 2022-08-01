@@ -145,9 +145,9 @@
     <sub> 
     * [코드 (그리디 알고리즘)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Greedy-Algorithm/82_455_Assign-Cookies/82_455_greedy.py)
     </sub>
-<sub>
+    <sub>
     * [코드 (이진 검색)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Greedy-Algorithm/82_455_Assign-Cookies/82_455_binary-search.py)
-</sub> 
+    </sub> 
  
 * 분할 정복 
 * 다이나믹 프로그래밍
