@@ -123,6 +123,8 @@
     * [LeetCode 77 조합](https://leetcode.com/problems/combinations/) (Backtracking)
       * [코드 (DFS로 K개 조합 생성)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/35_77_Combinations/35_77_DFS.py)
       * [코드 (itertools 모듈 사용)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/35_77_Combinations/35_77_itertools.py)
+    * [LeetCode 39 조합의 합](https://leetcode.com/problems/combination-sum/) (Array, Backtracking)
+      * [코드 (DFS로 중복 조합 그래프 탐색)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/36_39_Combination-Sum/36_39_DFS.py)
   * 최단 경로 문제 
   * 트리 
   * 힙 
