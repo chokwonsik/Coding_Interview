@@ -15,6 +15,8 @@
     * [코드 (itertools 모듈 사용)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/35_77_Combinations/35_77_itertools.py)
   * [LeetCode 39 조합의 합](https://leetcode.com/problems/combination-sum/) (Array, Backtracking)
     * [코드 (DFS로 중복 조합 그래프 탐색)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/36_39_Combination-Sum/36_39_DFS.py)
+  * [LeetCode 78 부분 집합](https://leetcode.com/problems/subsets/) (Array, Backtracking, Bit Manipulation)
+    * [코드 (트리의 모든 DFS 결과)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/37_78_Subsets/37_78_DFS.py)
 * 최단 경로 문제 
 * 트리 
 * 힙 
