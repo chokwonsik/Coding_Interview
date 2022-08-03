@@ -17,6 +17,10 @@
     * [코드 (DFS로 중복 조합 그래프 탐색)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/36_39_Combination-Sum/36_39_DFS.py)
   * [LeetCode 78 부분 집합](https://leetcode.com/problems/subsets/) (Array, Backtracking, Bit Manipulation)
     * [코드 (트리의 모든 DFS 결과)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/37_78_Subsets/37_78_DFS.py)
+  * [LeetCode 332 일정 재구성](https://leetcode.com/problems/reconstruct-itinerary/) (Depth-First Search, Graph, Eulerian Circuit)
+    * [코드 (DFS로 일정 그래프 구성)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/38_332_Reconstruct-Itinerary/38_332_DFS.py)
+    * [코드 (스택 연산으로 쿠 연산 최적화 시도)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/38_332_Reconstruct-Itinerary/38_332_stack.)
+    * [코드 (일정 그래프 반복)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/38_332_Reconstruct-Itinerary/38_332_pyrepeat.py)
 * 최단 경로 문제 
 * 트리 
 * 힙 
