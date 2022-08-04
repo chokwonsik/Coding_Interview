@@ -22,7 +22,7 @@
     * [코드 (스택 연산으로 쿠 연산 최적화 시도)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/38_332_Reconstruct-Itinerary/38_332_stack.py)
     * [코드 (일정 그래프 반복)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/38_332_Reconstruct-Itinerary/38_332_repeat.py)
   * [LeetCode 743 코스 스케줄](https://leetcode.com/problems/network-delay-time/)  (Depth-First Search, Breadth-First Search, Graph, Heap(Priority Queue), Shortest Path)
-    * [코드 (DFS로 순환 구조 판별)](https://github.com/chokwonsik/Coding_Interview/blob/main/ata_Structure/Non_Linear/11_graph/39_743_Network-Delay-Time/39_743_DFS.py)
+    * [코드 (DFS로 순환 구조 판별)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/11_graph/39_743_Network-Delay-Time/39_743_DFS.py)
 * 최단 경로 문제 
 * 트리 
 * 힙 
