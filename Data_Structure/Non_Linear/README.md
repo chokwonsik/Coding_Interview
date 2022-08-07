@@ -27,9 +27,12 @@
 * 최단 경로 문제
   * [LeetCode 743 코스 스케줄](https://leetcode.com/problems/network-delay-time/)  (Depth-First Search, Breadth-First Search, Graph, Heap(Priority Queue), Shortest Path)
     * [코드 (DFS로 순환 구조 판별)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/13_shortest-path-problem/40_743_Network-Delay-Time/40_743_DFS.py)
+  * [LeetCode 787 K경유지 내 가장 저렴한 항공권](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Heap(Priority Queue), Shortest Path)
+    * [코드 (다익스트라 알고리즘 응용)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/13_shortest-path-problem/41_787_Cheapest-Flights-Within-K-Stops/41_787_Dijkstra.py)
 * 트리 
 * 힙 
 * 트라이
 
 
 >Sang.Kil. Park, _파이썬 알고리즘 인터뷰_, 책만, 2020, pp.316-475.
+> >pythaac, 코드 (다익스트라 알고리즘 응용), https://github.com/onlybooks/algorithm-interview/issues/104 
