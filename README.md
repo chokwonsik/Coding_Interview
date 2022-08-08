@@ -143,6 +143,8 @@
 
 
   * 트리 
+    * [LeetCode 42 이진 트리의 최대 깊이](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Tree, Depth-First Search, Breadth-First Search, Binary Tree)
+      * [코드 (반복 구조로 BFS 풀이)](https://github.com/chokwonsik/Coding_Interview/blob/Data_Structure/Non_Linear/14_Tree/42_104_Maximum-Depth-of-Binary-Tree/42_104_BFS.py)
   * 힙 
   * 트라이
 

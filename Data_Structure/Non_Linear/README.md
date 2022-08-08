@@ -29,7 +29,10 @@
     * [코드 (DFS로 순환 구조 판별)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/13_shortest-path-problem/40_743_Network-Delay-Time/40_743_DFS.py)
   * [LeetCode 787 K경유지 내 가장 저렴한 항공권](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Heap(Priority Queue), Shortest Path)
     * [코드 (다익스트라 알고리즘 응용)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/13_shortest-path-problem/41_787_Cheapest-Flights-Within-K-Stops/41_787_Dijkstra.py)
-* 트리 
+
+* 트리
+  * [LeetCode 42 이진 트리의 최대 깊이](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Tree, Depth-First Search, Breadth-First Search, Binary Tree)
+    * [코드 (반복 구조로 BFS 풀이)](https://github.com/chokwonsik/Coding_Interview/blob/Data_Structure/Non_Linear/14_Tree/42_104_Maximum-Depth-of-Binary-Tree/42_104_BFS.py)
 * 힙 
 * 트라이
 
