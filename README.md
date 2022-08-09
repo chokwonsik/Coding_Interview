@@ -146,7 +146,8 @@
     * [LeetCode 104 이진 트리의 최대 깊이](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Tree, Depth-First Search, Breadth-First Search, Binary Tree)
       * [코드 (반복 구조로 BFS 풀이)](https://github.com/chokwonsik/Coding_Interview/blob/Data_Structure/Non_Linear/14_Tree/42_104_Maximum-Depth-of-Binary-Tree/42_104_BFS.py)
     * [LeetCode 543 이진 트리의 직경](https://leetcode.com/problems/diameter-of-binary-tree/) (Tree, Depth-First Search, Binary Tree)
-      * [코드 (상태값 누적 트리 DFS)](https://github.com/chokwonsik/Coding_Interview/blob/Data_Structure/Non_Linear/14_Tree/43_543_Diameter-of-Binary-Tree/43_543_DFS.py)
+      * [코드 (상태값 누적 트리 DFS)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/43_543_Diameter-of-Binary-Tree/43_543_DFS.py)
+      
   * 힙 
   * 트라이
 
