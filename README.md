@@ -147,6 +147,8 @@
       * [코드 (반복 구조로 BFS 풀이)](https://github.com/chokwonsik/Coding_Interview/blob/Data_Structure/Non_Linear/14_Tree/42_104_Maximum-Depth-of-Binary-Tree/42_104_BFS.py)
     * [LeetCode 543 이진 트리의 직경](https://leetcode.com/problems/diameter-of-binary-tree/) (Tree, Depth-First Search, Binary Tree)
       * [코드 (상태값 누적 트리 DFS)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/43_543_Diameter-of-Binary-Tree/43_543_DFS.py)
+    * [LeetCode 687 가장 긴 동일 값의 경로](https://leetcode.com/problems/longest-univalue-path/) (Tree, Depth-First Search Binary Tree)
+      * [코드 (상태값 거리 계산 DFS)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/44_687_Longest-Univalue-Path/44_687_DFS.py)
       
   * 힙 
   * 트라이
