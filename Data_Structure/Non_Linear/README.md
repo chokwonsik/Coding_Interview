@@ -37,6 +37,12 @@
     * [코드 (상태값 누적 트리 DFS)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/43_543_Diameter-of-Binary-Tree/43_543_DFS.py)
   * [LeetCode 687 가장 긴 동일 값의 경로](https://leetcode.com/problems/longest-univalue-path/) (Tree, Depth-First Search Binary Tree)
     * [코드 (상태값 거리 계산 DFS)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/44_687_Longest-Univalue-Path/44_687_DFS.py)
+  * [LeetCode 226 이진 트리 반전](https://leetcode.com/problems/invert-binary-tree/) (Tree, Depth-First Search, Breadth-First Search, Binary Tree)
+    * [코드 (Pythonic)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/45_226_Invert-Binary-Tree/45_226_Pythonic.py)
+    * [코드 (DFS)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/45_226_Invert-Binary-Tree/45_226_DFS.py)
+    * [코드 (DFS2)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/45_226_Invert-Binary-Tree/45_226_DFS2.py)
+    * [코드 (Post-Order)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/45_226_Invert-Binary-Tree/45_226_Post-Order.py)
+
 * 힙 
 * 트라이
 
