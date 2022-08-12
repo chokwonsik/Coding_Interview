@@ -42,6 +42,9 @@
     * [코드 (DFS)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/45_226_Invert-Binary-Tree/45_226_DFS.py)
     * [코드 (DFS2)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/45_226_Invert-Binary-Tree/45_226_DFS2.py)
     * [코드 (Post-Order)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/45_226_Invert-Binary-Tree/45_226_Post-Order.py)
+  * [LeetCode 617 두 이진 트리 병합](https://leetcode.com/problems/merge-two-binary-trees/)
+    * [코드 (재귀 탐색)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/46_617_Merge-Two-Binary-Trees/46_617_recursion.py) (Tree, Depth-First Search, Breadth-First Search, Binary Tree)
+
 
 * 힙 
 * 트라이
