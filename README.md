@@ -158,6 +158,8 @@
       * [코드 (재귀 탐색)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/46_617_Merge-Two-Binary-Trees/46_617_recursion.py) (Tree, Depth-First Search, Breadth-First Search, Binary Tree)
     * [LeetCode 297 이진 트리 직렬화 & 역직렬화](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) (String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree)
       * [코드 직렬화 & 역직렬화 구현](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/47_297_Serialize-and-Deserialize-Binary-Tree/47_297_Serialize%26Deserialize.py)
+    * [LeetCode 110 균형 이진 트리](https://leetcode.com/problems/balanced-binary-tree/) (Tree, Depth-First Search, Binary Tree)
+      * [코드 (재귀 구조로 높이 차이 계산)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/48_110_balanced-binary-tree/48_110_recursion.py)
       
   * 힙 
   * 트라이
