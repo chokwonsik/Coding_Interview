@@ -50,6 +50,8 @@
     * [코드 (재귀 구조로 높이 차이 계산)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/48_110_balanced-binary-tree/48_110_recursion.py)
   * [LeetCode 310 최소 높이 트리 ](https://leetcode.com/problems/minimum-height-trees/) (Depth-First Search, Breadth-First Search, Graph, Topological Sort)
     * [코드 (단계별 리프 노드 제거)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/49_310_Minimum-Height-Trees/49_310_bianry-search-tree.py)
+  * [LeetCode 1038 이진 탐색 트리를 더 큰 수 합계 트리로](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) (Tree, Depth-First Search, Binary Search Tree, binary Tree)
+    * [코드 (중외 순회로 노드 값 누적)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/51_1038_Binary-Search-Tree-to-Greater-Sum-Tree/51_1038_BST.py)
   
 
 
