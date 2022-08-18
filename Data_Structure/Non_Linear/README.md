@@ -52,6 +52,11 @@
     * [코드 (단계별 리프 노드 제거)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/49_310_Minimum-Height-Trees/49_310_bianry-search-tree.py)
   * [LeetCode 1038 이진 탐색 트리를 더 큰 수 합계 트리로](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) (Tree, Depth-First Search, Binary Search Tree, binary Tree)
     * [코드 (중외 순회로 노드 값 누적)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/51_1038_Binary-Search-Tree-to-Greater-Sum-Tree/51_1038_BST.py)
+  * [LeetCode 938 이진 탐색 트리 합의 범위](https://leetcode.com/problems/range-sum-of-bst/) (Tree, Depth-First Search, Binary Search Tree, Binary Tree)
+    * [재귀 구조 DFS로 부르트 포스 탐색](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/52_938_Range-Sum-of-BST/52_938_brute-force.py)
+    * [DFS 가지치기로 필요한 노드 탐색](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/52_938_Range-Sum-of-BST/52_938_branch-pruning.py)
+    * [반복 구조 DFS로 필요한 노드 탐색](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/52_938_Range-Sum-of-BST/52_938_DFS.py)
+    * [반복 구조 DFS로 필요한 노드 탐색 (큐)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/52_938_Range-Sum-of-BST/52_938_DFS-queue.py)
   
 
 
