@@ -167,11 +167,13 @@
     * [LeetCode 1038 이진 탐색 트리를 더 큰 수 합계 트리로](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) (Tree, Depth-First Search, Binary Search Tree, binary Tree)
       * [코드 (중외 순회로 노드 값 누적)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/51_1038_Binary-Search-Tree-to-Greater-Sum-Tree/51_1038_BST.py)
     * [LeetCode 938 이진 탐색 트리 합의 범위](https://leetcode.com/problems/range-sum-of-bst/) (Tree, Depth-First Search, Binary Search Tree, Binary Tree)
-      * [재귀 구조 DFS로 부르트 포스 탐색](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/52_938_Range-Sum-of-BST/52_938_brute-force.py)
-      * [DFS 가지치기로 필요한 노드 탐색](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/52_938_Range-Sum-of-BST/52_938_branch-pruning.py)
-      * [반복 구조 DFS로 필요한 노드 탐색](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/52_938_Range-Sum-of-BST/52_938_DFS.py)
-      * [반복 구조 DFS로 필요한 노드 탐색 (큐)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/52_938_Range-Sum-of-BST/52_938_DFS-queue.py)
-      
+      * [코드 (재귀 구조 DFS로 부르트 포스 탐색)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/52_938_Range-Sum-of-BST/52_938_brute-force.py)
+      * [코드 (DFS 가지치기로 필요한 노드 탐색)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/52_938_Range-Sum-of-BST/52_938_branch-pruning.py)
+      * [코드 (반복 구조 DFS로 필요한 노드 탐색)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/52_938_Range-Sum-of-BST/52_938_DFS.py)
+      * [코드 (반복 구조 DFS로 필요한 노드 탐색 (큐))](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/52_938_Range-Sum-of-BST/52_938_DFS-queue.py)
+    * [LeetCode 783 이진탐색트리(BST) 노드간 최소 거리](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) (Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree)
+      * [코드 (재귀 구조로 중위 순회)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/53_783_Minimum-Distance-Between-BST-Nodes/53_783_recursion.py)
+      * [코드 (반복 구조로 중위 순회)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/53_783_Minimum-Distance-Between-BST-Nodes/53_783_repeat.py)
   * 힙 
   * 트라이
 
