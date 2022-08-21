@@ -175,7 +175,7 @@
       * [코드 (재귀 구조로 중위 순회)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/53_783_Minimum-Distance-Between-BST-Nodes/53_783_recursion.py)
       * [코드 (반복 구조로 중위 순회)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/53_783_Minimum-Distance-Between-BST-Nodes/53_783_repeat.py)
     * [LeetCode 105 전위, 중위 순회 결과로 이진 트리 구축](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (Array, Hash Table, Divide and Conquer, Tree, Binary Tree)
-    * [코드 (전위 순회 결과로 중위 순회 분할 정복)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/54_105_Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/54_105_pre-order%26in-order.py)
+      * [코드 (전위 순회 결과로 중위 순회 분할 정복)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/54_105_Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/54_105_pre-order%26in-order.py)
 
   * 힙 
   * 트라이
