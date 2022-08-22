@@ -177,7 +177,12 @@
     * [LeetCode 105 전위, 중위 순회 결과로 이진 트리 구축](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (Array, Hash Table, Divide and Conquer, Tree, Binary Tree)
       * [코드 (전위 순회 결과로 중위 순회 분할 정복)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/54_105_Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/54_105_pre-order%26in-order.py)
 
-  * 힙 
+  * 힙
+    * [LeetCode 215 배열의 K번째 큰 요소](https://leetcode.com/problems/kth-largest-element-in-an-array/) (Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect)
+      * [코드 (heapq 모듈 이용)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/15_Heap/55_215_Kth-Largest-Element-in-an-Array/55_215_heqpq.py)
+      * [코드 (heapq 모듈의 heqpify 이용)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/15_Heap/55_215_Kth-Largest-Element-in-an-Array/55_215_heapq-heapify.py)
+      * [코드 (heqpq 모듈의 nlargest 이용)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/15_Heap/55_215_Kth-Largest-Element-in-an-Array/55_215_heapq-nlargest.py)
+      * [정렬을 이용한 풀이](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/15_Heap/55_215_Kth-Largest-Element-in-an-Array/55_215_sorted.py)
   * 트라이
 
 ---------------------------------------
