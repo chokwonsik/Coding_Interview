@@ -70,9 +70,9 @@
     * [코드 (heqpq 모듈의 nlargest 이용)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/15_Heap/55_215_Kth-Largest-Element-in-an-Array/55_215_heapq-nlargest.py)
     * [정렬을 이용한 풀이](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/15_Heap/55_215_Kth-Largest-Element-in-an-Array/55_215_sorted.py)
 
-
-
 * 트라이
+  * [LeetCode 208 트라이 구현](https://leetcode.com/problems/implement-trie-prefix-tree/) (Hash Table, String, Design, Trie)
+    * [코드 (딕셔너리를 이용해 간결한 트라이 구현)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/16_Trie/56_208_%20Implement-Trie-(Prefix-Tree)/56_208_dict.py)
 
 
 >Sang.Kil. Park, _파이썬 알고리즘 인터뷰_, 책만, 2020, pp.316-475.
