@@ -68,7 +68,7 @@
     * [코드 (heapq 모듈 이용)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/15_Heap/55_215_Kth-Largest-Element-in-an-Array/55_215_heqpq.py)
     * [코드 (heapq 모듈의 heqpify 이용)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/15_Heap/55_215_Kth-Largest-Element-in-an-Array/55_215_heapq-heapify.py)
     * [코드 (heqpq 모듈의 nlargest 이용)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/15_Heap/55_215_Kth-Largest-Element-in-an-Array/55_215_heapq-nlargest.py)
-    * [정렬을 이용한 풀이](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/15_Heap/55_215_Kth-Largest-Element-in-an-Array/55_215_sorted.py)
+    * [코드 (정렬을 이용한 풀이)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/15_Heap/55_215_Kth-Largest-Element-in-an-Array/55_215_sorted.py)
 
 * 트라이
   * [LeetCode 208 트라이 구현](https://leetcode.com/problems/implement-trie-prefix-tree/) (Hash Table, String, Design, Trie)
