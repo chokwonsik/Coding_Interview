@@ -187,6 +187,9 @@
   * 트라이
     * [LeetCode 208 트라이 구현](https://leetcode.com/problems/implement-trie-prefix-tree/) (Hash Table, String, Design, Trie)
       * [코드 (딕셔너리를 이용해 간결한 트라이 구현)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/16_Trie/56_208_%20Implement-Trie-(Prefix-Tree)/56_208_dict.py)
+    * [LeetCode 336 팰린드롬 페어](https://leetcode.com/problems/palindrome-pairs/)
+      * [코드 (팰린드롬을 브루트 포스로 계산)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/16_Trie/57_336_palindrome-pairs/57_336_brute-force.py)
+      * [코드 (트라이 구현)](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/16_Trie/57_336_palindrome-pairs/57_336_trie.py)
 
 ---------------------------------------
 
