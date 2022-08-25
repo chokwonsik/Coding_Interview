@@ -194,7 +194,10 @@
 ---------------------------------------
 
 ### [알고리즘](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/README.md)
-* 정렬 
+* 정렬
+  * [LeetCode 148 리스트 정렬](https://leetcode.com/problems/sort-list/) (Linked List, Two Pointers, Divide and Conquer, Sorting, Merge Sort)
+    * [코드 (병합정렬)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/58_148_Sort-List/58_148_merge-sort.py)
+    * [코드 (내장 함수를 이용하는 실용적인 방법)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/58_148_Sort-List/58_148_sort.py)
 * 이진검색 
 * 비트 조작 
 * 슬라이딩 윈도우 
