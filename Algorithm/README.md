@@ -8,6 +8,9 @@
     * [코드 (내장 함수를 이용하는 실용적인 방법)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/58_148_Sort-List/58_148_sort.py)
   * [LeetCode 56 구간 병합](https://leetcode.com/problems/merge-intervals/) (Array, Sorting)
     * [코드 (정렬하여 병합)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/59_56_Merge-Intervals/59_56_merge-sorted.py)
+  * [LeetCode 147 삽입 정렬 리스트](https://leetcode.com/problems/insertion-sort-list/) (Linked List, Sorting) 
+    * [코드 (삽입 정렬)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/60_147_Insertion-Sort-List/60_147_insertion.py)
+    * [코드 (삽입 정렬의 비교 조건 개선)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/60_147_Insertion-Sort-List/60_147_insertion_Improving.py)
 * 이진검색 
 * 비트 조작 
 * 슬라이딩 윈도우 
