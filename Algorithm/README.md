@@ -11,6 +11,8 @@
   * [LeetCode 147 삽입 정렬 리스트](https://leetcode.com/problems/insertion-sort-list/) (Linked List, Sorting) 
     * [코드 (삽입 정렬)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/60_147_Insertion-Sort-List/60_147_insertion.py)
     * [코드 (삽입 정렬의 비교 조건 개선)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/60_147_Insertion-Sort-List/60_147_insertion_Improving.py)
+  * [LeetCode 179 가장 큰 수](https://leetcode.com/problems/largest-number/) (String, Greedy, Sorting)
+    * [코드 (삽입 정렬)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/61_179_Largest-Number/61_179_insertion.py)
 * 이진검색 
 * 비트 조작 
 * 슬라이딩 윈도우 
