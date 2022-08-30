@@ -13,6 +13,8 @@
     * [코드 (삽입 정렬의 비교 조건 개선)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/60_147_Insertion-Sort-List/60_147_insertion_Improving.py)
   * [LeetCode 179 가장 큰 수](https://leetcode.com/problems/largest-number/) (String, Greedy, Sorting)
     * [코드 (삽입 정렬)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/61_179_Largest-Number/61_179_insertion.py)
+  * [LeetCode 242 유효한 애너그램](https://leetcode.com/problems/valid-anagram/) (Hash Table, String, Sorting)
+    * [코드 (정렬을 이용한 비교)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/62_242_Valid-Anagram/62_242_Pythonic.py)
 * 이진검색 
 * 비트 조작 
 * 슬라이딩 윈도우 
