@@ -207,11 +207,16 @@
     * [코드 (삽입 정렬)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/61_179_Largest-Number/61_179_insertion.py)
   * [LeetCode 242 유효한 애너그램](https://leetcode.com/problems/valid-anagram/) (Hash Table, String, Sorting)
     * [코드 (정렬을 이용한 비교)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/62_242_Valid-Anagram/62_242_Pythonic.py)
-  * [LeetCOde 75 색 정렬](https://leetcode.com/problems/sort-colors/) (Array, Two Pointers, Sorting)
+  * [LeetCode 75 색 정렬](https://leetcode.com/problems/sort-colors/) (Array, Two Pointers, Sorting)
     * [코드 (네덜란드 국기 문제를 응용한 풀이)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/63_75_Sort-Colors/63_75_Dutch-National-Flag-Problem.py)
   * [LeetCode 973 원점에 K번째로 가까운 점](https://leetcode.com/problems/k-closest-points-to-origin/) (Array, Math, Divide and Conquer, Geometry, Sorting, Heap(Priority Queue), Quickselect)
     * [유클리드 거리의 우선순위 큐 순서](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/64_973_K-Closest-Points-to-Origin/64_973_Euclidean-Distanc.py)
 * 이진검색 
+  * [LeetCode 704 이진 검색](https://leetcode.com/problems/binary-search/) (Array, Binary Search)
+      * [코드 (재귀 풀이)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/65_704_Binary-Search/65_704_recursion.py)
+      * [코드 (반복 풀이)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/65_704_Binary-Search/65_704_repeat.py)
+      * [코드 (이진 검색 모듈)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/65_704_Binary-Search/65_704_bisect.py)
+      * [코드 (이진 검새을 사용하지 않는 index 풀이)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/65_704_Binary-Search/65_704_index.py)
 * 비트 조작 
 * 슬라이딩 윈도우 
 * 그리디 알고리즘  
