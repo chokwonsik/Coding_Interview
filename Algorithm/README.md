@@ -26,6 +26,8 @@
     * [코드 (반복 풀이)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/65_704_Binary-Search/65_704_repeat.py)
     * [코드 (이진 검색 모듈)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/65_704_Binary-Search/65_704_bisect.py)
     * [코드 (이진 검새을 사용하지 않는 index 풀이)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/65_704_Binary-Search/65_704_index.py)
+  * [LeetCode 33 회전 정렬된 배열 검색](https://leetcode.com/problems/search-in-rotated-sorted-array/) (Array, Bianry, Search)
+    * [코드 (피벗을 기준으로 한 이진 검색)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/66_33_Search-in-Rotated-Sorted-Array/66_33_pivot.py)
   * 비트 조작 
   * 슬라이딩 윈도우 
   * 그리디 알고리즘  
