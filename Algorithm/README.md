@@ -28,6 +28,10 @@
     * [코드 (이진 검새을 사용하지 않는 index 풀이)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/65_704_Binary-Search/65_704_index.py)
   * [LeetCode 33 회전 정렬된 배열 검색](https://leetcode.com/problems/search-in-rotated-sorted-array/) (Array, Bianry, Search)
     * [코드 (피벗을 기준으로 한 이진 검색)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/66_33_Search-in-Rotated-Sorted-Array/66_33_pivot.py)
+  * [LeetCode 349 두 배열의 교집합](https://leetcode.com/problems/intersection-of-two-arrays/) (Array, Hashtable, Two Pointers, Binary Search, Sorting)
+    * [코드 (부르트 포스로 계산)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/67_349_Intersection-of-Two-Arrays/67_349_Brute-Force.py)
+    * [코드 (이진 검색으로 일치 여부 판별)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/67_349_Intersection-of-Two-Arrays/67_349_binary-search.py)
+    * [코드 (투 포인터로 일치 여부 판별)](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/67_349_Intersection-of-Two-Arrays/67_349_two-pointer.py)
   * 비트 조작 
   * 슬라이딩 윈도우 
   * 그리디 알고리즘  
