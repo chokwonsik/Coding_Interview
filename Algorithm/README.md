@@ -37,7 +37,7 @@
     * [bisect 모듈 + 슬라이싱](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/68_167_Two%20Sum-II-Input-Array-Is-Sorted/68_167_bisect%26slicing.py)
     * [bisect 모듈 + 슬라이싱 최소화](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/68_167_Two%20Sum-II-Input-Array-Is-Sorted/68_167_bisect%26slicing-minimization.py)
     * [bisect 모듈 + 슬라이싱 제거](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/68_167_Two%20Sum-II-Input-Array-Is-Sorted/68_167_bisect.py)
-  * [LeetCode 240 2D 행렬 검색 II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+  * [LeetCode 240 2D 행렬 검색 II](https://leetcode.com/problems/search-a-2d-matrix-ii/) (Array, Binary Search, Divide and Conquer, Matrix)
     * [첫 행의 맨 뒤에서 탐색](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/69_240_Search-a-2D-Matrix-II/69_240_binary-serach.py)
 * 비트 조작 
 
