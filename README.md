@@ -25,7 +25,7 @@
   
 ---------------------------------------
 ## [선형 자료구조](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/README.md)
-* 배열
+* ### 배열
   * [LeetCode 1 두 수의 합](https://leetcode.com/problems/two-sum/) (Array, Hash Table)
     * [브루트 포스로 계산](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_1_Two-Sum/7_1_brute-force.py)
     * [in을 이용한 탐색](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_1_Two-Sum/7_1_in.py)
@@ -48,7 +48,7 @@
     * [저점과 현재 값과의 차이 계산](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/12_121_Best%20Time-to-Buy-and-Sell-Stock/12_121_min%26max.py)
 
       
-* 연결리스트
+* ### 연결리스트
   * [LeetCode 234 팰린드롬 연결 리스트](https://leetcode.com/problems/palindrome-linked-list/) (Linked List, Two Pointers, Stack, Recursion)
     * [리스트 변환](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/13_234_Palindrome-Linked-List/13_234_list.py)
     * [데크를 이용한 최적화](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/13_234_Palindrome-Linked-List/13_234_deque.py)
@@ -71,7 +71,7 @@
      * [반복 구조로 노드 뒤집기](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/8_Linked-List/19_92_Reverse-Linked-List-II/19_92_repeat.py)
 
 
-* 스택, 큐
+* ### 스택, 큐
   * [LeetCode 20 유호한 괄호](https://leetcode.com/problems/valid-parentheses/) (String, Stack)
     * [스택 일치 여부 판별](https://github.com/onlybooks/algorithm-interview/blob/master/3-linear-data-structures/ch09/20-1.py)
   * [LeetCode 316 중복 문자 제거](https://leetcode.com/problems/remove-duplicate-letters/) (String, Stack, Greedy, Monotonic Stack)
@@ -87,14 +87,14 @@
     * [배열을 이용한 풀이](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/9_Stack%26Queue/25_622_Design-Circular-Queue/25_622_array.py)
 
 
-* 데크, 우선 순위 큐
+* ### 데크, 우선 순위 큐
   * [LeetCode 641 원형 테크 디자인](https://leetcode.com/problems/design-circular-deque/) (Array, Linked List, Design, Queue)
     * [이중 연결 리스트](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/10_Dequq%26Priority-queue/26_641_Design-Circular-Deque/26_641_Doubly-linked-list.py)
   * [LeetC0de 23 k개 정렬 리스트 병합](https://leetcode.com/problems/merge-k-sorted-lists/) (Linked List, Divide and Conquer, Heap(Priority Queue), Merge Sort) 
     * [우선순위 큐를 이용한 리스트 병합](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/10_Dequq%26Priority-queue/27_23_Merge-k-Sorted-Lists/27_23_Priority-queue.py)
 
 
-* 해시 테이블
+* ### 해시 테이블
   * [LeetCode 706 해시맵 디자인](https://leetcode.com/problems/design-hashmap/) (Array, Hash Table, Linked List, Design, Hash Function)
     * [개별 체이닝 방식을 이용한 해시 테이블 구현](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/28_706_Design-HashMap/28_706_Individual-chaining.py)
   * [LeetCode 771 보석과 돌](https://leetcode.com/problems/jewels-and-stones/) (Hash Table, String)
@@ -112,7 +112,7 @@
 ---------------------------------------------
 
 ## [비선형 자료구조](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/README.md)
-* 그래프
+* ### 그래프
   * [Leetcode 200 섬의 개수](https://leetcode.com/problems/number-of-islands/)(Array, Depth-First Search, Breadth-First Search, Union Find, Matrix )
     * [DFS로 그래프 탐색](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/12_graph/32_200_Number-of-Islands/32_200_DFS.py)
   * [Leetcode 17 전화 번호 문자 조합](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) (Hash Table, String, Backtracking)
@@ -134,14 +134,14 @@
   * [LeetCode 207 코스 스케줄](https://leetcode.com/problems/course-schedule/) (Depth-First Search, Breadth-First Search, Graph, Topological Sort)
     * [가지치기를 이용한 최적화](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/12_graph/39_207_Course-Schedule/39_207_backtracking.py)
 
-* 최단 경로 문제
+* ### 최단 경로 문제
   * [LeetCode 743 코스 스케줄](https://leetcode.com/problems/network-delay-time/)  (Depth-First Search, Breadth-First Search, Graph, Heap(Priority Queue), Shortest Path)
     * [DFS로 순환 구조 판별](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/13_shortest-path-problem/40_743_Network-Delay-Time/40_743_DFS.py)
   * [LeetCode 787 K경유지 내 가장 저렴한 항공권](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Heap(Priority Queue), Shortest Path)
      * [다익스트라 알고리즘 응용](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/13_shortest-path-problem/41_787_Cheapest-Flights-Within-K-Stops/41_787_Dijkstra.py)
 
   
-* 트리 
+* ### 트리 
   * [LeetCode 104 이진 트리의 최대 깊이](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Tree, Depth-First Search, Breadth-First Search, Binary Tree)
     * [반복 구조로 BFS 풀이](https://github.com/chokwonsik/Coding_Interview/blob/Data_Structure/Non_Linear/14_Tree/42_104_Maximum-Depth-of-Binary-Tree/42_104_BFS.py)
   * [LeetCode 543 이진 트리의 직경](https://leetcode.com/problems/diameter-of-binary-tree/) (Tree, Depth-First Search, Binary Tree)
@@ -177,14 +177,14 @@
     * [전위 순회 결과로 중위 순회 분할 정복](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/14_Tree/54_105_Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/54_105_pre-order%26in-order.py)
 
 
-* 힙
+* ### 힙
   * [LeetCode 215 배열의 K번째 큰 요소](https://leetcode.com/problems/kth-largest-element-in-an-array/) (Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect)
     * [heapq 모듈 이용](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/15_Heap/55_215_Kth-Largest-Element-in-an-Array/55_215_heqpq.py)
     * [heapq 모듈의 heqpify 이용](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/15_Heap/55_215_Kth-Largest-Element-in-an-Array/55_215_heapq-heapify.py)
     * [heqpq 모듈의 nlargest 이용](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/15_Heap/55_215_Kth-Largest-Element-in-an-Array/55_215_heapq-nlargest.py)
     * [정렬을 이용한 풀이](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/15_Heap/55_215_Kth-Largest-Element-in-an-Array/55_215_sorted.py)
 
-* 트라이
+* ### 트라이
   * [LeetCode 208 트라이 구현](https://leetcode.com/problems/implement-trie-prefix-tree/) (Hash Table, String, Design, Trie)
     * [딕셔너리를 이용해 간결한 트라이 구현](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/16_Trie/56_208_%20Implement-Trie-(Prefix-Tree)/56_208_dict.py)
   * [LeetCode 336 팰린드롬 페어](https://leetcode.com/problems/palindrome-pairs/)
@@ -194,7 +194,7 @@
 ---------------------------------------
 
 ## [알고리즘](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/README.md)
-* 정렬
+* ### 정렬
   * [LeetCode 148 리스트 정렬](https://leetcode.com/problems/sort-list/) (Linked List, Two Pointers, Divide and Conquer, Sorting, Merge Sort)
     * [병합정렬](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/58_148_Sort-List/58_148_merge-sort.py)
     * [내장 함수를 이용하는 실용적인 방법](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/58_148_Sort-List/58_148_sort.py)
@@ -213,7 +213,7 @@
     * [유클리드 거리의 우선순위 큐 순서](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/64_973_K-Closest-Points-to-Origin/64_973_Euclidean-Distanc.py)
 
 
-* 이진검색
+* ### 이진검색
   * [LeetCode 704 이진 검색](https://leetcode.com/problems/binary-search/) (Array, Binary Search)
     * [재귀 풀이](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/65_704_Binary-Search/65_704_recursion.py)
     * [반복 풀이](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/65_704_Binary-Search/65_704_repeat.py)
@@ -234,13 +234,13 @@
   * [LeetCode 240 2D 행렬 검색 II](https://leetcode.com/problems/search-a-2d-matrix-ii/) (Array, Binary Search, Divide and Conquer, Matrix)
     * [첫 행의 맨 뒤에서 탐색](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/69_240_Search-a-2D-Matrix-II/69_240_binary-serach.py)
 
-* 비트 조작
+* ### 비트 조작
 
 
-* 슬라이딩 윈도우
+* ### 슬라이딩 윈도우
 
 
-* 그리디 알고리즘  
+* ### 그리디 알고리즘  
   * [LeetCode 122 주식을 사고팔기 가장 좋은 시점 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) (Array, Dynamic Programming, Greedy)
     * [그리디 알고리즘](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Greedy-Algorithm/78_122_Best-Time-to-Buy-and-Sell-Stock-II/78_122_greedy.py)
     * [Pythonic](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Greedy-Algorithm/78_122_Best-Time-to-Buy-and-Sell-Stock-II/78_122_pythonic.py)
@@ -255,10 +255,10 @@
     * [그리디 알고리즘](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Greedy-Algorithm/82_455_Assign-Cookies/82_455_greedy.py)
     * [이진 검색](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Greedy-Algorithm/82_455_Assign-Cookies/82_455_binary-search.py) 
  
-* 분할 정복
+* ### 분할 정복
 
 
-* 다이나믹 프로그래밍
+* ### 다이나믹 프로그래밍
 
 
 ---------------------------------------
