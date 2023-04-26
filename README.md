@@ -6,7 +6,7 @@
   
 ---------------------------------------
 
-### [문자열 조작](https://github.com/chokwonsik/Coding_Interview/tree/main/String-Manipulation)
+## [문자열 조작](https://github.com/chokwonsik/Coding_Interview/tree/main/String-Manipulation)
 * [LeetCode 125 유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/) (Two Pointers, String)
   * [리스트로 변환](https://github.com/chokwonsik/Coding_Interview/blob/main/String-Manipulation/1_125_Valid-Palindrome/1_125_list.py)
   * [데크 자료형을 이용한 최적화](https://github.com/chokwonsik/Coding_Interview/blob/main/String-Manipulation/1_125_Valid-Palindrome/1_125_deque.py)
@@ -24,7 +24,7 @@
   * [중앙을 중심으로 확장하는 풀이](https://github.com/chokwonsik/Coding_Interview/blob/main/String-Manipulation/6_5_Longest-Palindromic-Substring/6_5.py)
   
 ---------------------------------------
-### [선형 자료구조](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/README.md)
+## [선형 자료구조](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/README.md)
 * 배열
   * [LeetCode 1 두 수의 합](https://leetcode.com/problems/two-sum/) (Array, Hash Table)
     * [브루트 포스로 계산](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/7_Array/7_1_Two-Sum/7_1_brute-force.py)
@@ -111,7 +111,7 @@
 
 ---------------------------------------------
 
-### [비선형 자료구조](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/README.md)
+## [비선형 자료구조](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/README.md)
 * 그래프
   * [Leetcode 200 섬의 개수](https://leetcode.com/problems/number-of-islands/)(Array, Depth-First Search, Breadth-First Search, Union Find, Matrix )
     * [DFS로 그래프 탐색](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Non_Linear/12_graph/32_200_Number-of-Islands/32_200_DFS.py)
@@ -193,7 +193,7 @@
 
 ---------------------------------------
 
-### [알고리즘](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/README.md)
+## [알고리즘](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/README.md)
 * 정렬
   * [LeetCode 148 리스트 정렬](https://leetcode.com/problems/sort-list/) (Linked List, Two Pointers, Divide and Conquer, Sorting, Merge Sort)
     * [병합정렬](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Sorting/58_148_Sort-List/58_148_merge-sort.py)
