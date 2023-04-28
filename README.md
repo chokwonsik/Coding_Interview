@@ -235,6 +235,8 @@
     * [첫 행의 맨 뒤에서 탐색](https://github.com/chokwonsik/Coding_Interview/blob/main/Algorithm/Binary-Search/69_240_Search-a-2D-Matrix-II/69_240_binary-serach.py)
 
 * ### 비트 조작
+  * [LeetCode 136 싱글 넘버](https://leetcode.com/problems/single-number/description/) (Array, Bit Manipulation)
+    * [XOR 풀이](https://github.com/chokwonsik/Coding_Interview/tree/main/Algorithm)
 
 
 * ### 슬라이딩 윈도우
