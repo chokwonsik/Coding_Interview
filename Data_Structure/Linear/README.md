@@ -65,24 +65,24 @@
 
 * 데크, 우선 순위 큐
   * [LeetCode 641 원형 테크 디자인](https://leetcode.com/problems/design-circular-deque/) (Array, Linked List, Design, Queue)
-    * [이중 연결 리스트](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/10_Dequq%26Priority-queue/26_641_Design-Circular-Deque/26_641_Doubly-linked-list.py)
+    * [이중 연결 리스트](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/10_Deque%26Priority-queue/26_641_Design-Circular-Deque/26_641_Doubly-linked-list.py)
   * [LeetC0de 23 k개 정렬 리스트 병합](https://leetcode.com/problems/merge-k-sorted-lists/) (Linked List, Divide and Conquer, Heap(Priority Queue), Merge Sort) 
-    * [우선순위 큐를 이용한 리스트 병합](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/10_Dequq%26Priority-queue/27_23_Merge-k-Sorted-Lists/27_23_Priority-queue.py)
+    * [우선순위 큐를 이용한 리스트 병합](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/10_Deque%26Priority-queue/27_23_Merge-k-Sorted-Lists/27_23_Priority-queue.py)
 
 
 * 해시 테이블
   * [LeetCode 706 해시맵 디자인](https://leetcode.com/problems/design-hashmap/) (Array, Hash Table, Linked List, Design, Hash Function)
-    * [개별 체이닝 방식을 이용한 해시 테이블 구현](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/28_706_Design-HashMap/28_706_Individual-chaining.py)
+    * [개별 체이닝 방식을 이용한 해시 테이블 구현](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_Hash-Table/28_706_Design-HashMap/28_706_Individual-chaining.py)
   * [LeetCode 771 보석과 돌](https://leetcode.com/problems/jewels-and-stones/) (Hash Table, String)
-    * [해시 테이블을 이용한 풀이](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/29_771_Jewels-and-Stones/29_771_hash-table.py) 
-    * [defaultdict를 이용한 비교 생략](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/29_771_Jewels-and-Stones/29_771_defaultdict.py)
-    * [Counter로 계산 생략](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/29_771_Jewels-and-Stones/29_771_counter.py)
-    * [Pythonic](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/29_771_Jewels-and-Stones/29_771_pythonic.py)
+    * [해시 테이블을 이용한 풀이](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_Hash-Table/29_771_Jewels-and-Stones/29_771_Hash-Table.py) 
+    * [defaultdict를 이용한 비교 생략](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_Hash-Table/29_771_Jewels-and-Stones/29_771_defaultdict.py)
+    * [Counter로 계산 생략](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_Hash-Table/29_771_Jewels-and-Stones/29_771_counter.py)
+    * [Pythonic](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_Hash-Table/29_771_Jewels-and-Stones/29_771_pythonic.py)
   * [LeetCode 3 중복 문자 없는 가장 긴 부분 문자열](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (Hash Table, String, Sliding Window)
-    * [슬라이딩 윈도우와 투 포인터로 사이즈 조절](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/30_3_Longest-Substring-Without-Repeating-Characters/30_3_sliding-window&two-pointer.py)
+    * [슬라이딩 윈도우와 투 포인터로 사이즈 조절](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_Hash-Table/30_3_Longest-Substring-Without-Repeating-Characters/30_3_sliding-window&two-pointer.py)
   * [LeetCode 347 상위 K 빈도 요소](https://leetcode.com/problems/top-k-frequent-elements/) (Array, Hash Table, Divide and Conquer, Sorting, Heap(Priority Queue), Bucket Sort, Counting, Quickselect)
-    * [Counter를 이용한 음수 순 추출](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/31_347_Top-K-Frequent-Elements/31_347_counter.py)
-    * [Pythonic](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_hash-table/31_347_Top-K-Frequent-Elements/31_347_Pythonic.py)
+    * [Counter를 이용한 음수 순 추출](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_Hash-Table/31_347_Top-K-Frequent-Elements/31_347_counter.py)
+    * [Pythonic](https://github.com/chokwonsik/Coding_Interview/blob/main/Data_Structure/Linear/11_Hash-Table/31_347_Top-K-Frequent-Elements/31_347_Pythonic.py)
 
 
 
